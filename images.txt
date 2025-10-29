@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mortensrasmussen/docker-registry-manifest-cleanup
+#mortensrasmussen/docker-registry-manifest-cleanup
+centos7:7.9
